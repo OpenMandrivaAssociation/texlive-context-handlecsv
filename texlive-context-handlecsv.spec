@@ -27,21 +27,8 @@ mkdir -p %{buildroot}%{_texmfdistdir}
 cp -a * %{buildroot}%{_texmfdistdir}
 
 %files
-%{_texmfdistdir}/tex
-%{_texmfdistdir}/tex/context
-%{_texmfdistdir}/tex/context/third
 %{_texmfdistdir}/tex/context/third/handlecsv
-%{_texmfdistdir}/tex/context/third/handlecsv/t-handlecsv.tex
-%{_texmfdistdir}/tex/context/third/handlecsv/t-handlecsv.lua
-%{_texmfdistdir}/tex/context/third/handlecsv/t-handlecsv-tools.lua
-%{_texmfdistdir}/tex/context/third/handlecsv/t-handlecsv-extra.lua
-%{_texmfdistdir}/doc
-%doc %{_texmfdistdir}/doc/context
-%doc %{_texmfdistdir}/doc/context/third
 %doc %{_texmfdistdir}/doc/context/third/handlecsv
-%doc %{_texmfdistdir}/doc/context/third/handlecsv/handlecsv.pdf
-%doc %{_texmfdistdir}/doc/context/third/handlecsv/handlecsv.epub
-%doc %{_texmfdistdir}/doc/context/third/handlecsv/VERSION
 
 %post -p %{_sbindir}/texlive.post
 
