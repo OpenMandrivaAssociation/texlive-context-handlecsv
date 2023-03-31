@@ -1,6 +1,6 @@
 Name:		texlive-context-handlecsv
 Version:	51306
-Release:	1
+Release:	2
 Summary:	Data merging for automatic document creation
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/context-handlecsv
