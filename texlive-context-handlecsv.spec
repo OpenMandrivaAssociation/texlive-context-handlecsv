@@ -1,5 +1,5 @@
 Name:		texlive-context-handlecsv
-Version:	68150
+Version:	69186
 Release:	1
 Summary:	Data merging for automatic document creation
 Group:		Publishing
