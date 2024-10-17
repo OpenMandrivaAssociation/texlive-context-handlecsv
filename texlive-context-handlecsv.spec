@@ -3,7 +3,7 @@ Version:	70074
 Release:	1
 Summary:	Data merging for automatic document creation
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/context-handlecsv
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/context-handlecsv
 License:	gpl3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/context-handlecsv.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/context-handlecsv.doc.r%{version}.tar.xz
